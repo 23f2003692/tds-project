@@ -1,6 +1,6 @@
 {
-  "prompt": "A hyper-realistic photograph of a tailor’s workshop. A mannequin wearing an extremely tight, perfectly stitched suit that fits it flawlessly. Nearby, a real human tries to wear a similar suit but it is too tight and tearing at the seams. Natural lighting, realistic textures, no text, no labels, no diagrams, cinematic composition, highly detailed, 4k",
+  "prompt": "A realistic classroom scene. One student is obsessively copying answers from a worn-out notebook, perfectly matching past questions. On the blackboard, the current question is slightly different, and the student looks confused and unable to solve it. Other students are solving it normally. Natural lighting, realistic environment, no text, no labels, no diagrams, photorealistic.",
   "model": "DALL·E 3",
   "concept": "overfitting",
-  "metaphor": "A suit fits a mannequin perfectly but fails on a real person, showing memorization instead of generalization"
+  "metaphor": "A student memorizes past answers perfectly but fails when questions change slightly, showing lack of generalization."
 }
